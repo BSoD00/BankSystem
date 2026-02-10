@@ -32,8 +32,6 @@ Sistema bancário simples desenvolvido em **Java**, com foco na prática de **Pr
 ## 🛠️ Tecnologias utilizadas
 
 - Java
-- SQL (conceitos estudados)
-- Python (conceitos estudados)
 
 ---
 
